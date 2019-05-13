@@ -21,11 +21,6 @@
     - support OpenCV 3 and Eigen 3.3
     - for Monocular, Stereo and RGB-D cameras
     - language : C++
-5. https://github.com/FlorianWilk/SPDR_1
-    - Latest commit on 23 Sep 2018
-    - use Arduino Mega Servo-Board
-    - use a 360° LIDAR (light/laser based range detection) and a wide angle camera.
-    - language : C++
 ### not really sure what it is
 1. https://github.com/Zarkopafilis/dronepilot
     - drone pilot
@@ -39,3 +34,8 @@
     - implementaion of visual inertial SLAM with AR Drone
     - language : C++
     - Latest commit on 21 Feb 2019
+. https://github.com/FlorianWilk/SPDR_1
+    - Latest commit on 23 Sep 2018
+    - use Arduino Mega Servo-Board
+    - use a 360° LIDAR (light/laser based range detection) and a wide angle camera.
+    - language : C++
