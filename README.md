@@ -5,22 +5,23 @@
     - Python 3.6+ numpy 1.15.2 transformations 2018.9.5
     - flying one or more Tello drones
     - language : python
-2. https://github.com/phooning/DroneRapid3DReconstruction
-    - Latest commit on 21 April 2019
-    - Allow drones to go from one point to another by itself without collision.
-    - used Raspberry Pi ,OpenCV2 ,SDL2 ,NumPy ,SciKit
-    - there is a demo video in folder footage
-    - language : python
-3. https://github.com/stytim/Drone_Visual_SLAM
+2. https://github.com/stytim/Drone_Visual_SLAM
     - Latest commit on 29 June 2018
     - using LSD-SLAM to robustly track the position of an AR drone
     - language : C++
-4. https://github.com/raulmur/ORB_SLAM2?fbclid=IwAR2uYO-8Z58B2VPe9rNuGOdvswCJzaFClLRGBlRGuMyTROfVipkr-WiVfFs
+3. https://github.com/raulmur/ORB_SLAM2?fbclid=IwAR2uYO-8Z58B2VPe9rNuGOdvswCJzaFClLRGBlRGuMyTROfVipkr-WiVfFs
     - Latest commit on 11 Oct 2017
     - tested in Ubuntu 12.04, 14.04 and 16.04
     - support OpenCV 3 and Eigen 3.3
     - for Monocular, Stereo and RGB-D cameras
     - language : C++
+4. https://github.com/phooning/DroneRapid3DReconstruction
+    - Latest commit on 21 April 2019
+    - Allow drones to go from one point to another by itself without collision.
+    - used Raspberry Pi ,OpenCV2 ,SDL2 ,NumPy ,SciKit
+    - there is a demo video in folder footage
+    - language : python
+
 ### not really sure what it is
 1. https://github.com/Zarkopafilis/dronepilot
     - drone pilot
