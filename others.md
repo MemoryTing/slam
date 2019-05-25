@@ -8,7 +8,7 @@
 1. https://daniilidis-group.github.io/mvsec/
 2. https://sites.google.com/view/multispectral/home
 3. http://www.cvlibs.net/datasets/kitti/index.php?fbclid=IwAR1mqhIsCq2lMvDhphHqz8WhUAO8SlPHkYgDwAMGBB8rZcSmKFOBlsLJqdM
-### 
+## 
 1. https://github.com/torrvision/CollaborativeSLAMDataset
     - use an Asus ZenFone AR augmented reality smartphone
 2. https://www.hs-karlsruhe.de/odometry-data/
