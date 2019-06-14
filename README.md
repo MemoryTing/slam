@@ -2,14 +2,14 @@
 AliceVision's binaries must be in the path while running Meshroom.
 ### Installed AliceVision
 required :
-CMake
-Git
-gcc
-Boost
-OpenEXR
-OpenImageIO
-Geogram
-zlib
+1. CMake
+2. Git
+3. gcc
+4. Boost
+5. OpenEXR
+6. OpenImageIO
+7. Geogram
+8. zlib
 
 ---
 OpenMP (enable multi-threading)
