@@ -1,3 +1,30 @@
+## Meshroom
+AliceVision's binaries must be in the path while running Meshroom.
+### Installed AliceVision
+required :
+CMake
+Git
+gcc
+Boost
+OpenEXR
+OpenImageIO
+Geogram
+zlib
+
+---
+OpenMP (enable multi-threading)
+Mosek 5 (linear programming)
+OpenCV >= 3.2 (feature extraction, calibration module, video IO)
+Alembic (data I/O)
+CCTag (feature extraction/matching and localization on CPU or GPU)
+PopSift (feature extraction on GPU)
+UncertaintyTE (Uncertainty computation)
+Magma (required for UncertaintyTE)
+Cuda >= 7.0 (feature extraction and depth map computation)
+OpenGV (rig calibration and localization)
+
+
+
 ## Blackbird
 1. the drone 以及每台camera的位置![](http://volibear.cs.nthu.edu.tw:3000/uploads/upload_ff137ef8a84fc05c7e197a74c4114ea6.JPG)
 2. 整個dataset的架構![](http://volibear.cs.nthu.edu.tw:3000/uploads/upload_ddbc556667afb70451795a61a9ffe748.JPG)
