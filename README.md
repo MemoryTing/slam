@@ -10,12 +10,14 @@ required :
 6. OpenImageIO
 7. zlib
 8. OpenCV
+---
 can't found : 
 1. MOSEK header , MOSEK library
 2. Alembic
 3. UncertaintyTE headers , UncertaintyTE library
 4. Geogram
 5. OpenGV headers
+---
 not yet :
 1. PopSift
 ---
