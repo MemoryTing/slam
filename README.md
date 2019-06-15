@@ -10,18 +10,21 @@ required :
 6. OpenImageIO
 7. Geogram
 8. zlib
+9. OpenCV
+10. UncertaintyTE
+11. OpenGV
+12. Alembic
+13. 
 
 ---
 OpenMP (enable multi-threading)
 Mosek 5 (linear programming)
-OpenCV >= 3.2 (feature extraction, calibration module, video IO)
-Alembic (data I/O)
+ (data I/O)
 CCTag (feature extraction/matching and localization on CPU or GPU)
 PopSift (feature extraction on GPU)
-UncertaintyTE (Uncertainty computation)
+ (Uncertainty computation)
 Magma (required for UncertaintyTE)
 Cuda >= 7.0 (feature extraction and depth map computation)
-OpenGV (rig calibration and localization)
 
 
 
