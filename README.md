@@ -8,21 +8,19 @@ required :
 4. Boost
 5. OpenEXR
 6. OpenImageIO
-7. Geogram
-8. zlib
-9. OpenCV
-10. UncertaintyTE
-11. OpenGV
-12. Alembic
-13. 
-
+7. zlib
+8. OpenCV
+can't found : 
+1. MOSEK header , MOSEK library
+2. Alembic
+3. UncertaintyTE headers , UncertaintyTE library
+4. Geogram
+5. OpenGV headers
+not yet :
+1. PopSift
 ---
 OpenMP (enable multi-threading)
-Mosek 5 (linear programming)
- (data I/O)
 CCTag (feature extraction/matching and localization on CPU or GPU)
-PopSift (feature extraction on GPU)
- (Uncertainty computation)
 Magma (required for UncertaintyTE)
 Cuda >= 7.0 (feature extraction and depth map computation)
 
