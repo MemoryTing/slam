@@ -18,13 +18,25 @@ can't found :
 4. Geogram
 5. OpenGV headers
 ---
-not yet :
-1. PopSift
----
-OpenMP (enable multi-threading)
-CCTag (feature extraction/matching and localization on CPU or GPU)
-Magma (required for UncertaintyTE)
-Cuda >= 7.0 (feature extraction and depth map computation)
+? :
+1. PopSift (feature extraction on GPU)
+2. OpenMP (enable multi-threading)
+3. CCTag (feature extraction/matching and localization on CPU or GPU)
+4. Magma (required for UncertaintyTE)
+5. Cuda >= 7.0 (feature extraction and depth map computation)
+----
+Download the Meshroom-2019.1.0-linux.tar.gz
+upzip then click the Meshroom icon
+nothing happened
+use terminal to run it
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/usr/lib64/python3.6/site-packages/cx_Freeze/initscripts/__startup__.py", line 13, in run
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 656, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 626, in _load_backward_compatible
+  File "/opt/Meshroom/setupInitScriptUnix.py", line 27, in <module>
+OSError: [Errno 7] Argument list too long
 
 
 
