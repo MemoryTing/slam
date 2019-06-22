@@ -18,7 +18,7 @@ can't found :
 4. Geogram
 5. OpenGV headers
 ---
-? :
+不確定是不是有安裝成功或是找不到要怎麼裝 :
 1. PopSift (feature extraction on GPU)
 2. OpenMP (enable multi-threading)
 3. CCTag (feature extraction/matching and localization on CPU or GPU)
